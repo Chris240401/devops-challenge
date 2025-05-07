@@ -1,0 +1,13 @@
+devops-challenge/
+├── app/
+│   ├── main.py
+│   ├── schemas.py
+│   └── auth.py
+├── tests/
+│   └── test_main.py
+├── requirements.txt
+├── Dockerfile
+├── docker-compose.yml
+└── .github/
+    └── workflows/
+        └── deploy.yml
